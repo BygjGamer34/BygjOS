@@ -5,7 +5,7 @@ Para arrancar el sistema, presione la tecla "S" al principio y para iniciar la r
 Si ves un cartel de prohibido, significa que no tienes BygjOS instalado.
 # Información para la máquina virtual
 Es obligatorio que la máquina virtual tenga al menos
-al menos 5,00 GB (dependiendo de cómo vayas a utilizar el sistema operativo)
+5,00 GB de disco duro (dependiendo de cómo vayas a utilizar el sistema operativo)
 para que la instalación de todos los archivos se realice correctamente.
 El tipo de sistema operativo debe ser DOS.
 # Cómo activar la virtualización en tu procesador (solo para pc's)
