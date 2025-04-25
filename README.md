@@ -9,5 +9,6 @@ least 5.00 GB (depending on how you are going to use the OS)
 for the installation of all files to be successful.
 The type of OS needs to be DOS.
 # How to activate virtualization on your processor (only for pc's)
-Go to BIOS, if you don't know how to turn on in BIOS here is a command to reset in BIOS
-"shutdown /r /fw /t 1"
+Go to BIOS, if you don't know how to turn on in BIOS here is a command to restart in BIOS
+"shutdown /r /fw /t 1" Do this running cmd as a administrator
+.
