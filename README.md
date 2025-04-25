@@ -1,7 +1,7 @@
 # BygjOS
 Un sistema operativo ligero para máquinas virtuales
 # Arranque
-Para arrancar el sistema, presione la tecla "S" al principio y para iniciar la recuperación (o la instalación del sistema) presione r.
+Para arrancar el sistema, escriba bygjos, presione la tecla "S" al principio y para iniciar la recuperación (o la instalación del sistema) presione r.
 Si ves un cartel de prohibido, significa que no tienes BygjOS instalado.
 # Información para la máquina virtual
 Es obligatorio que la máquina virtual tenga al menos
