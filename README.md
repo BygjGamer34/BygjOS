@@ -1,14 +1,13 @@
 # BygjOS
-A operating system for VM's
-# Boot
-To boot the system press the "S" key at first and to start recovery (or system installation) press r.
-If you see a prohibited sign, it means that you don't have BygjOS installed.
-# Info for VM
-It is mandatory that the virtual machine has at 
-least 5.00 GB (depending on how you are going to use the OS)
-for the installation of all files to be successful.
-The type of OS needs to be DOS.
-# How to activate virtualization on your processor (only for pc's)
-Go to BIOS, if you don't know how to turn on in BIOS here is a command to restart in BIOS
-"shutdown /r /fw /t 1" Do this running cmd as a administrator
-.
+Un sistema operativo para máquinas virtuales
+# Arranque
+Para arrancar el sistema, presione la tecla "S" al principio y para iniciar la recuperación (o la instalación del sistema) presione r.
+Si ves un cartel de prohibido, significa que no tienes BygjOS instalado.
+# Información para la máquina virtual
+Es obligatorio que la máquina virtual tenga al menos
+al menos 5,00 GB (dependiendo de cómo vayas a utilizar el sistema operativo)
+para que la instalación de todos los archivos se realice correctamente.
+El tipo de sistema operativo debe ser DOS.
+# Cómo activar la virtualización en tu procesador (solo para pc's)
+Vaya a BIOS, si no sabe cómo ir a BIOS, aquí hay un comando para reiniciar en BIOS
+"shutdown /r /fw /t 1" Haga esto ejecutando cmd como administrador.
