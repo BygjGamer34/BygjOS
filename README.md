@@ -11,4 +11,5 @@ El tipo de sistema operativo debe ser DOS.
 # Cómo activar la virtualización en tu procesador (solo para pc's)
 Vaya a BIOS, si no sabe cómo ir a BIOS, aquí hay un comando para reiniciar en BIOS
 "shutdown /r /fw /t 1" Haga esto ejecutando cmd como administrador.
-En configuración del sistema, 
+En configuración del sistema, activa la opción de virtualización.
+Si no te sale la opción busca en foros o en la documentación de tu equipo.
