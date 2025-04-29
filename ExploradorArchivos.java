@@ -1,4 +1,4 @@
-package bygj_OS_isoBooting_Project;
+package pkg;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
