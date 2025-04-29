@@ -1,4 +1,4 @@
-package bygj_OS_isoBooting_Project;
+package pkg;
 import java.util.Scanner;
 
 public class Calculadora {
