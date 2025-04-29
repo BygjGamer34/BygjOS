@@ -1,3 +1,3 @@
 # BygjOS
-Un conjunto de apps que forman un SO
+Un emulador de un SO
 # SO en desarrollo
