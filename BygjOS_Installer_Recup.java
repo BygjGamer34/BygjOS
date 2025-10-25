@@ -29,13 +29,13 @@ public class BygjOS_Installer_Recup {
             Bygj no será responsable de ningún daño directo, indirecto, incidental o consecuente que resulte del uso o la imposibilidad de usar BygjOS 1.0. Al adquirir el producto, el comprador asume toda la responsabilidad del uso que haga del sistema operativo.
 
             7. Soporte Técnico
-            El soporte técnico para BygjOS 1.0 es limitado. Si tienes algún problema con la instalación o el uso del sistema operativo, puedes contactar a atención al cliente a través de atencionalclienteBYGJOS@gmail.com.
+            El soporte técnico para BygjOS 1.0 es limitado. Si tienes algún problema con la instalación o el uso del sistema operativo, pues mala suerte
 
             8. Actualizaciones
             Las actualizaciones de BygjOS 1.0 podrán ser proporcionadas en el futuro bajo los términos que se establezcan en su momento. Las actualizaciones no están garantizadas.
 
             9. Modificaciones de los Términos
-            Bygj se reserva el derecho de modificar estos Términos y Condiciones en cualquier momento, sin previo aviso. Cualquier modificación será válida a partir de su publicación.
+            BygjSoftware se reserva el derecho de modificar estos Términos y Condiciones en cualquier momento, sin previo aviso. Cualquier modificación será válida a partir de su publicación.
 
             10. Aceptación de los Términos
             Al realizar la instalación de BygjOS, el usuario reconoce haber leído, comprendido y aceptado estos Términos y Condiciones.
@@ -129,3 +129,4 @@ public class BygjOS_Installer_Recup {
         System.out.println("                                                                          |_________________________________________________________________________|");
     }
 }
+
