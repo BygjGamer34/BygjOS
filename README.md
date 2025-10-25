@@ -15,3 +15,7 @@ Dentro de BygjOS encontrarás:
 - **Explorador de archivos:** Navegador de archivos simple para interactuar con el sistema.
 - **Piedra, Papel y Tijera:** Otro mini-juego para experimentar con lógica y eventos.
 - **README.md:** Este archivo con toda la información del proyecto.
+
+## Está en desarrollo
+El sistema está **en desarollo** así que aún le faltan muchas cosas para funcionar
+## Gracias por interesarte en BygjOS
