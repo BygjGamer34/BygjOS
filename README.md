@@ -79,7 +79,7 @@ Estos datos quedarán guardados en los archivos de configuración del sistema.
 ## 🧩 Versión
 
 **Versión actual:** `BygjOS Eclipse 1.0`  
-**Desarrollado por:** *Gabriel (Bygj)*  
+**Desarrollado por:** *Bygj*  
 
 ---
 
@@ -91,6 +91,7 @@ Compilado y ejecutado desde **Eclipse IDE**.
 ---
 
 > 🪄 *“BygjOS: El sistema operativo dentro del sistema operativo.”*
+
 
 
 
