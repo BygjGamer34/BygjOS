@@ -85,10 +85,11 @@ Estos datos quedarán guardados en los archivos de configuración del sistema.
 
 ## 💬 Créditos
 
-Creado con ❤️ por **Gabriel**, inspirado en la idea de crear un sistema operativo propio que funcione sobre Java.  
+Creado con ❤️ por Bygj, inspirado en la idea de crear un sistema operativo propio que funcione sobre Java.  
 Compilado y ejecutado desde **Eclipse IDE**.  
 
 ---
 
 > 🪄 *“BygjOS: El sistema operativo dentro del sistema operativo.”*
+
 
