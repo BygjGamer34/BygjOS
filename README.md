@@ -1,4 +1,4 @@
-# 🪐 BygjOS Eclipse 1.0
+# 🪐 BygjOS
 
 **BygjOS** es un sistema operativo *simulado* creado completamente en **Java**.  
 Funciona en cualquier sistema operativo con Java instalado (Windows, macOS o Linux) y no necesita programas externos.  
@@ -91,5 +91,6 @@ Compilado y ejecutado desde **Eclipse IDE**.
 ---
 
 > 🪄 *“BygjOS: El sistema operativo dentro del sistema operativo.”*
+
 
 
