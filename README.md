@@ -1,6 +1,7 @@
 # 🛠 BygjOS - Rama de Pruebas
 
 **⚠️ Estado:** Experimental / En desarrollo  
+**Release actual de pruebas:** BygjOS Eclipse 1.1 Beta 1  
 **Versión en pruebas:** BygjOS Eclipse 1.1  
 **Fecha de lanzamiento en pruebas:** 10 de diciembre de 2025
 
@@ -22,6 +23,3 @@ Esta rama del proyecto **BygjOS** está destinada a **probar nuevas funcionalida
 ## 📝 Nota
 
 Los cambios en esta rama son **experimentales**. No se recomienda usarla como versión estable del sistema operativo.  
-
-
-
