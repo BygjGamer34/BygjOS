@@ -16,28 +16,19 @@ public class BygjOS_Installer_Recup {
             2. Descripción del Producto
             BygjOS 1.0 es un sistema operativo desarrollado por Bygj. La licencia proporcionada es válida únicamente para una instalación en un dispositivo compatible y no puede ser utilizada en más de un dispositivo simultáneamente.
 
-            3. Proceso de Compra y Distribución
-            Las licencias se venden en reuniones familiares, y cada clave vendrá con un enlace de descarga único. Dicho enlace proporcionará acceso a una imagen de disco (.iso) que contiene los archivos necesarios para instalar BygjOS 1.0. La descarga está disponible solo a través de los enlaces distribuidos.
-
-            4. Pago
-            El costo de cada licencia es de 1€. El pago debe ser realizado en efectivo en las reuniones familiares o mediante acuerdos privados. No se ofrece ningún reembolso una vez realizada la compra, salvo que se especifique lo contrario.
-
-            5. Licencia de Uso
-            El comprador recibe una licencia no exclusiva para usar BygjOS 1.0 en un solo dispositivo. No se permite la redistribución, copia o modificación del sistema operativo sin el permiso explícito de Bygj.
-
-            6. Responsabilidad
+            3. Responsabilidad
             Bygj no será responsable de ningún daño directo, indirecto, incidental o consecuente que resulte del uso o la imposibilidad de usar BygjOS 1.0. Al adquirir el producto, el comprador asume toda la responsabilidad del uso que haga del sistema operativo.
 
-            7. Soporte Técnico
+            4. Soporte Técnico
             El soporte técnico para BygjOS 1.0 es limitado. Si tienes algún problema con la instalación o el uso del sistema operativo, pues mala suerte
 
-            8. Actualizaciones
+            5. Actualizaciones
             Las actualizaciones de BygjOS 1.0 podrán ser proporcionadas en el futuro bajo los términos que se establezcan en su momento. Las actualizaciones no están garantizadas.
 
-            9. Modificaciones de los Términos
+            6. Modificaciones de los Términos
             BygjSoftware se reserva el derecho de modificar estos Términos y Condiciones en cualquier momento, sin previo aviso. Cualquier modificación será válida a partir de su publicación.
 
-            10. Aceptación de los Términos
+            7. Aceptación de los Términos
             Al realizar la instalación de BygjOS, el usuario reconoce haber leído, comprendido y aceptado estos Términos y Condiciones.
             """;
 
@@ -129,4 +120,5 @@ public class BygjOS_Installer_Recup {
         System.out.println("                                                                          |_________________________________________________________________________|");
     }
 }
+
 
